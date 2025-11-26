@@ -1,31 +1,31 @@
 # School Performance Predictor Analysis
 
 
-##  📚 Table of Contents:
+##  Table of Contents:
 
-1.) 📊 Project Overview
+1.)  Project Overview
 
-2.) 📁 Repository Structure
+2.)  Repository Structure
 
-3.) 🧹 Data Cleaning & Preparation
+3.)  Data Cleaning & Preparation
 
-4.) 🔍 Exploratory Data Analysis (EDA)
+4.)  Exploratory Data Analysis (EDA)
 
-5.) 📈 Visualisation
+5.)  Visualisation
 
-6.) 🧠 Key Insights
+6.)  Key Insights
 
-7.) 🛠 Technologies Used
+7.)  Technologies Used
 
-8.) ▶ How to Run the Project
+8.)  How to Run the Project
 
-9.) 📦 Deliverables
+9.)  Deliverables
 
-10.) 🚀 Next Steps / Future Enhancements
+10.) Next Steps / Future Enhancements
 
-11.) 📬 Contact
+11.) Contact
 
-## 1.) 📊 Project Overview
+## 1.)  Project Overview
 
 This project is a data analysis initiative aimed at understanding whats predicts student educational performance.
 
@@ -64,25 +64,25 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 **6. Presentation** | Summarising our methodology, findings, and recommendations for stakeholders.
 
-## 2.) 📁 Repository Structure
+## 2.) Repository Structure
 
-## 3.) 🧹 1. Data Cleaning & Preparation
+## 3.) Data Cleaning & Preparation
 
-## 4.) 🔍 2. Exploratory Data Analysis (EDA)
+## 4.) Exploratory Data Analysis (EDA)
 
-## 5.) 📈 3. Visualisation
+## 5.) Visualisation
 
-## 6.) 🧠 Key Insights
+## 6.) Key Insights
 
-## 7.) 🛠 Technologies Used
+## 7.) Technologies Used
 
-## 8.) ▶ How to Run the Project
+## 8.) How to Run the Project
 
-## 9.) 📦 Deliverables
+## 9.) Deliverables
 
-## 10.) 🚀 Next Steps / Future Enhancements
+## 10.) Next Steps / Future Enhancements
 
-## 11.) 📬 Contact
+## 11.) Contact
 
 ## Team
 
