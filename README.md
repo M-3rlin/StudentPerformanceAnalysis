@@ -6,6 +6,12 @@ This project is a data analysis initiative aimed at understanding whats predicts
 
 Our goal is to move from observation to data-driven insight, which in turn will help relevant stakeholders focus their resources where they can have the maximum impact on student achievement.
 
+### About This Dataset
+
+Kaggle Dataset: https://www.kaggle.com/datasets/alizabrand/school-performance-analysis/data
+
+This dataset contains information about students’ academic performance and related demographic factors. It includes scores in math, reading, and writing exams, along with background details such as gender, parental education, lunch type, and test preparation course.
+
 ## The Core Question
 
 What is the best single predictor of a student's final educational performance across core subjects, including Maths, Reading, and English?
