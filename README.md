@@ -1,5 +1,30 @@
 # School Performance Predictor Analysis
 
+
+📚 Table of Contents:
+
+1.) 📊 Project Overview
+
+2.) 📁 Repository Structure
+
+3.) 🧹 1. Data Cleaning & Preparation
+
+4.) 🔍 2. Exploratory Data Analysis (EDA)
+
+5.) 📈 3. Visualisation
+
+6.) 🧠 Key Insights
+
+7.) 🛠 Technologies Used
+
+8.) ▶ How to Run the Project
+
+9.) 📦 Deliverables
+
+10.) 🚀 Next Steps / Future Enhancements
+
+11.) 📬 Contact
+
 ## Project Overview
 
 This project is a data analysis initiative aimed at understanding whats predicts student educational performance.
