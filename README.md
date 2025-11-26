@@ -48,10 +48,20 @@ By answering this, we aim to establish a strong, measurable relationship between
 Our work is structured into the following phases to ensure a comprehensive analysis:
 
 **1. Foundation** | Defining the business problem and reviewing the structure and quality of the raw data.
+
+
 **2. Preparation** | Thorough cleaning, wrangling, and transforming the data to ensure it is suitable for analysis.
+
+
 **3. Discovery** | Exploratory Data Analysis (EDA) to visualise relationships and patterns within the dataset.
+
+
 **4. Modeling** | Developing analytical models (e.g., predictive models) to determine the strength of various factors in predicting performance.
+
+
 **5. Reporting** | Interpreting the results to provide clear insights into the most influential predictors.
+
+
 **6. Presentation** | Summarising our methodology, findings, and recommendations for stakeholders.
 
 ## 2.) 📁 Repository Structure
