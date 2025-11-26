@@ -43,26 +43,6 @@ What is the best single predictor of a student's final educational performance a
 
 By answering this, we aim to establish a strong, measurable relationship between student attributes and academic outcomes.
 
-2.) 📁 Repository Structure
-
-3.) 🧹 1. Data Cleaning & Preparation
-
-4.) 🔍 2. Exploratory Data Analysis (EDA)
-
-5.) 📈 3. Visualisation
-
-6.) 🧠 Key Insights
-
-7.) 🛠 Technologies Used
-
-8.) ▶ How to Run the Project
-
-9.) 📦 Deliverables
-
-10.) 🚀 Next Steps / Future Enhancements
-
-11.) 📬 Contact
-
 ## Project Scope & Deliverables
 
 Our work is structured into the following phases to ensure a comprehensive analysis:
@@ -73,6 +53,26 @@ Our work is structured into the following phases to ensure a comprehensive analy
 **4. Modeling** | Developing analytical models (e.g., predictive models) to determine the strength of various factors in predicting performance.
 **5. Reporting** | Interpreting the results to provide clear insights into the most influential predictors.
 **6. Presentation** | Summarising our methodology, findings, and recommendations for stakeholders.
+
+## 2.) 📁 Repository Structure
+
+## 3.) 🧹 1. Data Cleaning & Preparation
+
+## 4.) 🔍 2. Exploratory Data Analysis (EDA)
+
+## 5.) 📈 3. Visualisation
+
+## 6.) 🧠 Key Insights
+
+## 7.) 🛠 Technologies Used
+
+## 8.) ▶ How to Run the Project
+
+## 9.) 📦 Deliverables
+
+## 10.) 🚀 Next Steps / Future Enhancements
+
+## 11.) 📬 Contact
 
 ## Team
 
