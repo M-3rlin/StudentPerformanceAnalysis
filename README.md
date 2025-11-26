@@ -7,11 +7,11 @@
 
 2.) 📁 Repository Structure
 
-3.) 🧹 1. Data Cleaning & Preparation
+3.) 🧹 Data Cleaning & Preparation
 
-4.) 🔍 2. Exploratory Data Analysis (EDA)
+4.) 🔍 Exploratory Data Analysis (EDA)
 
-5.) 📈 3. Visualisation
+5.) 📈 Visualisation
 
 6.) 🧠 Key Insights
 
