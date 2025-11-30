@@ -21,9 +21,6 @@
 
 9.)  Deliverables
 
-10.) Next Steps / Future Enhancements
-
-11.) Contact
 
 ## 1.)  Project Overview
 
@@ -79,10 +76,6 @@ Our work is structured into the following phases to ensure a comprehensive analy
 ## 8.) How to Run the Project
 
 ## 9.) Deliverables
-
-## 10.) Next Steps / Future Enhancements
-
-## 11.) Contact
 
 ## Team
 
