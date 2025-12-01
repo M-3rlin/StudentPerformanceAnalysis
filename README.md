@@ -35,7 +35,7 @@ This dataset contains information about students’ academic performance and rel
 
 ## The Core Question:
 
-What is the best single predictor of a student's final educational performance across core subjects, including Maths, Reading, and English?
+Can demographic characteristics alone be used to predict students’ educational performance across core subjects, such as Maths, Reading, and Writing?
 
 By answering this, we aim to establish a strong, measurable relationship between student attributes and academic outcomes.
 
