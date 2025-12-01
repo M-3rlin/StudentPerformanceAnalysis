@@ -62,24 +62,7 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 2.) Repository Structure
 
-/student-performance-analysis
-│
-├── README.md                                ← Project documentation
-├── StudentsPerformance.ipynb                 ← Full analysis notebook :contentReference[oaicite:1]{index=1}
-├── School Performance Analysis Final.pptx    ← Presentation slides
-│
-├── data/
-│    └── StudentsPerformance.csv              ← Original dataset (if included)
-│
-├── visuals/
-│    ├── distributions.png
-│    ├── correlation-heatmap.png
-│    ├── confusion-matrix.png
-│    └── feature-importance.png
-│
-└── models/
-     └── (optional ML model outputs)
-
+<img width="1078" height="530" alt="image" src="https://github.com/user-attachments/assets/f7926db0-31da-4e95-b616-3e197289cde8" />
 
 ## 3.) Data Cleaning & Preparation
 
