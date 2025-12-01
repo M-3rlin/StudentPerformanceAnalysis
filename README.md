@@ -65,7 +65,61 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 3.) Data Cleaning & Preparation
 
+Key steps performed in the notebook 
+
+School Performance Analysis Fin…
+
+:
+
+Loaded 1,000 student exam results from Kaggle (Math, Reading, Writing).
+
+Reviewed categorical features:
+gender, race/ethnicity, parental level of education, lunch type, test preparation course.
+
+Verified no missing values.
+
+Identified one extreme outlier (Math score = 0).
+The team chose not to remove this outlier as it had minimal impact on median/quartile ranges.
+
+Converted numerical exam results into banded categories:
+
+0 = Low (≤60)
+
+1 = Medium (61–75)
+
+2 = High (≥76)
+
+These bands were used for classification modelling and pattern comparison across subjects.
+
 ## 4.) Exploratory Data Analysis (EDA)
+
+EDA included:
+
+Score Distribution Analysis
+
+All three subjects showed symmetrical, consistent distributions.
+
+Very similar patterns made unified banding possible.
+
+Correlation Analysis
+
+Correlations between demographics and exam scores were weak (<0.5).
+
+Correlations between exam subjects were strong:
+
+Reading ↔ Writing: ≈0.95
+
+Reading ↔ Maths: High
+
+Writing ↔ Maths: High
+
+Outlier Check
+
+One maths score of 0 noted but retained.
+
+Feature Exploration
+
+Compared performance across demographic groups (gender, ethnicity, education level, lunch, test prep).
 
 ## 5.) Visualisation
 
@@ -73,9 +127,81 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 7.) Technologies Used
 
+Python
+
+Jupyter Notebook 
+
+School Performance Analysis Fin…
+
+Pandas, NumPy (data cleaning, transformations)
+
+Matplotlib, Seaborn (visualisations)
+
+Scikit-learn (modelling: Random Forest, classification, regression)
+
+PowerPoint (presentation delivery)
+
+Trello (project/task organisation)
+
+Kaggle dataset (School Performance dataset)
+
 ## 8.) How to Run the Project
 
+Requirements
+
+Install dependencies:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+Steps
+
+Clone or download the repository.
+
+Place the dataset in the /data folder (if not already included).
+
+Open the Jupyter Notebook:
+
+jupyter notebook StudentsPerformance.ipynb
+
+
+Run each cell in order:
+
+Data loading
+
+Cleaning & preparation
+
+EDA
+
+Visualisations
+
+Predictive modelling (classification + regression)
+
 ## 9.) Deliverables
+
+✔️ 1. Jupyter Notebook — Full Analysis
+
+Includes cleaning, EDA, modelling, plots, and conclusions.
+
+
+School Performance Analysis Fin…
+
+✔️ 2. Final Presentation Deck (PowerPoint)
+
+Summarises methodology, visuals, findings, and recommendations.
+
+✔️ 3. README (this file)
+
+Full documentation describing the project structure and workflow.
+
+✔️ 4. Optional (If added)
+
+Exported plots
+
+Model outputs
+
+Enhanced dashboards
+
+Additional analysis notebooks
 
 ## Team
 
