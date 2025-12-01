@@ -111,19 +111,33 @@ Compared performance across demographic groups (gender, ethnicity, education lev
 
 ## 5.) Visualisation
 
+We have produced a series of bar graphs providing an overview of how demographic attributes and exam scores are distributed across the dataset, highlighting balanced and skewed features before deeper analysis.
+
 <img width="1654" height="884" alt="image" src="https://github.com/user-attachments/assets/8f50e456-aeaf-4f0b-ae76-9c53d34ec5bd" />
+
+We then looked into the correlations of these demographic variables which showed weak correlations with exam scores, while the three academic subjects exhibit strong inter-correlations—especially the tight relationship between reading and writing performance.
 
 <img width="1634" height="866" alt="image" src="https://github.com/user-attachments/assets/51f9ba75-62e0-45dc-8d17-b46e4f74a228" />
 
 ## 6.) Key Insights
 
+Our modelling approach and shows that reading and writing scores—along with gender—are the most influential features in predicting banded maths performance.
+
 <img width="1622" height="858" alt="image" src="https://github.com/user-attachments/assets/14aa4d38-c6cf-43b4-a007-7f25d9b550c6" />
+
+Our model predicts banded maths scores with 76.5% accuracy, showing strong classification performance and reaffirming that reading and writing scores are the most influential predictors.
 
 <img width="1596" height="858" alt="image" src="https://github.com/user-attachments/assets/e0cd58b3-7f30-4215-92e4-76ce310b9a34" />
 
+We were able to find accuracies showing that demographics alone perform poorly, while combining core academic scores—especially reading and writing—yields the strongest predictive results for banded maths performance.
+
 <img width="1464" height="752" alt="image" src="https://github.com/user-attachments/assets/74320c7c-2aa9-4f65-a324-13e0ebf2b00b" />
 
+Additionally, using only demographic features, model accuracy remains low across all subjects, reinforcing that demographics alone are poor predictors of banded academic performance.
+
 <img width="1494" height="814" alt="image" src="https://github.com/user-attachments/assets/bb246558-ca05-4eef-88d9-8108192963fa" />
+
+Finally, the reading score alone predicts writing performance extremely well, while demographics add minimal value, underscoring the dominance of academic features over demographic ones.
 
 <img width="1640" height="878" alt="image" src="https://github.com/user-attachments/assets/b7c045ee-14c1-4e5a-bdc6-2bef3d23f2e1" />
 
