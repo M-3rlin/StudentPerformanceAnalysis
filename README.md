@@ -67,19 +67,19 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 4.) Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA) is a critical step in understanding the structure, patterns, and underlying behaviour of the dataset before applying any modelling techniques. In this project, EDA helps us explore how student exam performance varies across Maths, Reading, and Writing, and how these outcomes relate to demographic characteristics such as gender, ethnicity, parental education, lunch type, and test preparation status.
+Exploratory Data Analysis (EDA) is a critical step in understanding the structure, patterns, and underlying behaviour of the dataset before applying any modelling techniques. For this project, the EDA we performed helped us explore how student exam performance varies across Maths, Reading, and Writing, and how these outcomes relate to demographic characteristics such as gender, ethnicity, parental education, lunch type, and test preparation status.
 
 The goal of this stage is to:
 
-Examine data distributions across all numerical features
+- Examine data distributions across all numerical features
 
-Identify potential outliers, anomalies, or inconsistencies
+- Identify potential outliers, anomalies, or inconsistencies
 
-Understand relationships between demographic variables and exam scores
+- Understand relationships between demographic variables and exam scores
 
-Assess correlations between subjects to evaluate predictive potential
+- Assess correlations between subjects to evaluate predictive potential
 
-Establish whether demographic characteristics have meaningful influence on performance outcomes
+- Establish whether demographic characteristics have meaningful influence on performance outcomes
 
 Through descriptive statistics, visualisations, and correlation analysis, EDA provides essential insights that guide the modelling phase and validates whether demographic factors can contribute to accurate prediction of student performance.
 EDA included:
