@@ -101,13 +101,13 @@ The goal of this stage is to:
 Through descriptive statistics, visualisations, and correlation analysis, EDA provides essential insights that guide the modelling phase and validates whether demographic factors can contribute to accurate prediction of student performance.
 EDA included:
 
-Score Distribution Analysis
+- Score Distribution Analysis
 
 All three subjects showed symmetrical, consistent distributions.
 
 Very similar patterns made unified banding possible.
 
-Correlation Analysis
+- Correlation Analysis
 
 Correlations between demographics and exam scores were weak (<0.5).
 
@@ -119,11 +119,11 @@ Reading ↔ Maths: High
 
 Writing ↔ Maths: High
 
-Outlier Check
+- Outlier Check
 
 One maths score of 0 noted but retained.
 
-Feature Exploration
+- Feature Exploration
 
 Compared performance across demographic groups (gender, ethnicity, education level, lunch, test prep).
 
