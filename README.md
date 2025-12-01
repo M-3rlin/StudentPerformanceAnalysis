@@ -62,7 +62,41 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 2.) Repository Structure
 
+/student-performance-analysis
+│
+├── README.md                                ← Project documentation
+├── StudentsPerformance.ipynb                 ← Full analysis notebook :contentReference[oaicite:1]{index=1}
+├── School Performance Analysis Final.pptx    ← Presentation slides
+│
+├── data/
+│    └── StudentsPerformance.csv              ← Original dataset (if included)
+│
+├── visuals/
+│    ├── distributions.png
+│    ├── correlation-heatmap.png
+│    ├── confusion-matrix.png
+│    └── feature-importance.png
+│
+└── models/
+     └── (optional ML model outputs)
+
 ## 3.) Data Cleaning & Preparation
+
+All cleaning steps were done in the notebook.
+
+- Verified dataset integrity (no missing values)
+
+- Analysed categorical vs. numerical fields
+
+- Identified one extreme outlier (Maths score = 0)
+
+- Outlier retained because it did not distort central tendencies
+
+- Unified banding system created for all subjects:
+
+<img width="1068" height="300" alt="image" src="https://github.com/user-attachments/assets/8998d303-7c15-47e5-8c3a-dbb63d47e370" />
+
+These bands were used for classification models.
 
 ## 4.) Exploratory Data Analysis (EDA)
 
