@@ -105,8 +105,6 @@ Python
 
 Jupyter Notebook 
 
-School Performance Analysis Fin…
-
 Pandas, NumPy (data cleaning, transformations)
 
 Matplotlib, Seaborn (visualisations)
