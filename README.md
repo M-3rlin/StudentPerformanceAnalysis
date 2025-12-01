@@ -65,32 +65,6 @@ Our work is structured into the following phases to ensure a comprehensive analy
 
 ## 3.) Data Cleaning & Preparation
 
-Key steps performed in the notebook 
-
-School Performance Analysis Fin…
-
-:
-
-Loaded 1,000 student exam results from Kaggle (Math, Reading, Writing).
-
-Reviewed categorical features:
-gender, race/ethnicity, parental level of education, lunch type, test preparation course.
-
-Verified no missing values.
-
-Identified one extreme outlier (Math score = 0).
-The team chose not to remove this outlier as it had minimal impact on median/quartile ranges.
-
-Converted numerical exam results into banded categories:
-
-0 = Low (≤60)
-
-1 = Medium (61–75)
-
-2 = High (≥76)
-
-These bands were used for classification modelling and pattern comparison across subjects.
-
 ## 4.) Exploratory Data Analysis (EDA)
 
 EDA included:
