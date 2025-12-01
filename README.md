@@ -21,7 +21,6 @@
 
 9.)  Deliverables
 
-
 ## 1.)  Project Overview
 
 This project is a data analysis initiative aimed at understanding whats predicts student educational performance.
@@ -112,7 +111,21 @@ Compared performance across demographic groups (gender, ethnicity, education lev
 
 ## 5.) Visualisation
 
+<img width="1654" height="884" alt="image" src="https://github.com/user-attachments/assets/8f50e456-aeaf-4f0b-ae76-9c53d34ec5bd" />
+
+<img width="1634" height="866" alt="image" src="https://github.com/user-attachments/assets/51f9ba75-62e0-45dc-8d17-b46e4f74a228" />
+
 ## 6.) Key Insights
+
+<img width="1622" height="858" alt="image" src="https://github.com/user-attachments/assets/14aa4d38-c6cf-43b4-a007-7f25d9b550c6" />
+
+<img width="1596" height="858" alt="image" src="https://github.com/user-attachments/assets/e0cd58b3-7f30-4215-92e4-76ce310b9a34" />
+
+<img width="1464" height="752" alt="image" src="https://github.com/user-attachments/assets/74320c7c-2aa9-4f65-a324-13e0ebf2b00b" />
+
+<img width="1494" height="814" alt="image" src="https://github.com/user-attachments/assets/bb246558-ca05-4eef-88d9-8108192963fa" />
+
+<img width="1640" height="878" alt="image" src="https://github.com/user-attachments/assets/b7c045ee-14c1-4e5a-bdc6-2bef3d23f2e1" />
 
 ## 7.) Technologies Used
 
@@ -150,7 +163,6 @@ Open the Jupyter Notebook:
 
 jupyter notebook StudentsPerformance.ipynb
 
-
 Run each cell in order:
 
 Data loading
@@ -168,7 +180,6 @@ Predictive modelling (classification + regression)
 ✔️ 1. Jupyter Notebook — Full Analysis
 
 Includes cleaning, EDA, modelling, plots, and conclusions.
-
 
 School Performance Analysis Fin…
 
