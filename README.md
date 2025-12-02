@@ -244,7 +244,3 @@ Additional analysis notebooks
 | [Teresa]  |
 
 ---
-
-## Getting Started
-
-*This section will be updated with specific instructions for setting up the environment once we finalise what is needed for the deployment of the project.*
